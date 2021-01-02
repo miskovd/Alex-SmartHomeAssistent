@@ -2,7 +2,7 @@
 Alex :robot: - Smart Home Virtual Assistant powered by Raspberry Pi 4. 
 This is the simplest project that demonstrate voice controlled assistent. He can answer some questions, play(local music or video), search youtube video and **light up electric appliance**.
 
-[Video Demo](https://www.youtube.com/watch)
+[Video Demo](https://youtu.be/Glquotd4dMo)
 
 Current features:
 Can understand commands:
